@@ -68,3 +68,19 @@
 
 #### Q14. Fill in the blank: The ________attribute is used to adjust the transparency of a graph plot.
 - [x] alpha
+
+#### Q15. What is the first step to take before creating OHLC charts? Drag the correct answer into the space provided.
+- [ ] Run the data
+- [x] Import matplotlib.ticker
+- [ ] Modify the length and width
+- [ ] Modify the ticker time
+
+#### Q16. What are the examples of Matplotlib styles? Choose three correct answers.
+- [x] Grayscale
+- [x] Bmh
+- [x] Ggplot
+- [ ] Ticker
+
+#### Q17. TRUE OR FALSE: The clear statement is used to clean out the chart.
+- [x] True
+- [ ] False
