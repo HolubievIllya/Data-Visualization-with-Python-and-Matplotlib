@@ -18,7 +18,53 @@
 - [ ] Plt.line
 
 #### Q5. Which command is used to plot bar charts in Matplotlib? Choose one correct answer.
-- [ ] Plt.show(
+- [ ] Plt.show()
 - [x] Plt.bar()
 - [ ] Plt.legend()
 - [ ] Plt.plot()
+
+#### Q6. Which one of these allows you to see how each part of a data set makes up the whole? Drag the correct answer into the space provided.
+- [ ] Pie chart
+- [ ] Scatter Plot
+- [ ] Histogram
+- [x] Stack Plot
+
+#### Q7. Which term refers to the process of pulling pie chart slices apart? Choose one correct answer.
+- [ ] Labeling
+- [ ] Shadowing
+- [ ] Slicing
+- [x] Exploding
+
+#### Q8. Which term refers to the process of pulling pie chart slices apart? Choose one correct answer.
+- [ ] Delimting
+- [x] Unpacking
+- [ ] Importing
+- [ ] Plotting
+
+#### Q9. What will you use to convert byte data into string data in Python 3? Choose one correct answer.
+- [ ] .read
+- [x] .decode
+- [ ] Source_code
+- [ ] Split_code
+
+#### Q10. Fill in the blank: The ________ is used to specify the boundary between independent regions in data streams.
+- [x] delimiter
+
+#### Q11. What are the examples of grid modifications you can make on the chart? Choose three correct answers.
+- [ ] Label
+- [x] Line width
+- [x] Colour
+- [x] Line style
+
+#### Q12. What is the default label colour of the axis on the data chart? Choose one correct answer.
+- [ ] White
+- [x] Black
+- [ ] Red
+- [ ] Yellow
+
+#### Q13. TRUE OR FALSE: The alpha of zero is completely transparent, and the lower the alpha, the more transparent something will be.
+- [x] True
+- [ ] False
+
+#### Q14. Fill in the blank: The ________attribute is used to adjust the transparency of a graph plot.
+- [x] alpha
