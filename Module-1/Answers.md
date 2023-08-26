@@ -84,3 +84,16 @@
 #### Q17. TRUE OR FALSE: The clear statement is used to clean out the chart.
 - [x] True
 - [ ] False
+
+#### Q18. What value do you set for the projection parameter when you want to create a 3D scatter plot? Choose one correct answer.
+- [ ] 3
+- [ ] 3 Dimen
+- [x] 3D
+- [ ] 2-3D
+
+#### Q19. TRUE OR FALSE: Scatter plots are used to identify multiple groups of data in most cases.
+- [x] True
+- [ ] False
+
+#### Q20. How many pieces of data do you have to feed into a 3-dimensional bar chart? Type your answer, in numeric form, into the space provided.
+- [x] 6
